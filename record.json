@@ -1,0 +1,219 @@
+{
+ "10000": {
+  "name": "kitkat",
+  "price": 20,
+  "qtn": 78,
+  "category": "chocolate",
+  "exp": "02-2022"
+ },
+ "10001": {
+  "name": "kitkat",
+  "price": 10,
+  "qtn": 200,
+  "category": "chocolate",
+  "exp": "02-2022"
+ },
+ "10002": {
+  "name": "kitkat",
+  "price": 5,
+  "qtn": 100,
+  "category": "chocolate",
+  "exp": "02-2022"
+ },
+ "10003": {
+  "name": "fivestar",
+  "price": 20,
+  "qtn": 100,
+  "category": "chocolate",
+  "exp": "03-2022"
+ },
+ "10004": {
+  "name": "fivestar",
+  "price": 10,
+  "qtn": 100,
+  "category": "chocolate",
+  "exp": "01-2022"
+ },
+ "10005": {
+  "name": "dairymilk",
+  "price": 100,
+  "qtn": 200,
+  "category": "chocolate",
+  "exp": "01-2022"
+ },
+ "10006": {
+  "name": "diarymilk",
+  "price": 50,
+  "qtn": 150,
+  "category": "chocolate",
+  "exp": "03-2022"
+ },
+ "10007": {
+  "name": "cello pen",
+  "price": 10,
+  "qtn": 400,
+  "category": "stationary",
+  "exp": "NA"
+ },
+ "10008": {
+  "name": "A4 Papers",
+  "price": 250,
+  "qtn": 50,
+  "category": "stationary",
+  "exp": "NA"
+ },
+ "10009": {
+  "name": "Pepsi",
+  "price": 20,
+  "qtn": 600,
+  "category": "cool drink",
+  "exp": "12-2021"
+ },
+ "10010": {
+  "name": "Maaza",
+  "price": 15,
+  "qtn": 500,
+  "category": "cool drink",
+  "exp": "12-2021"
+ },
+ "10011": {
+  "name": "Coco cola",
+  "price": 20,
+  "qtn": 600,
+  "category": "cool drink",
+  "exp": "12-2021"
+ },
+ "10012": {
+  "name": "Lays",
+  "price": 20,
+  "qtn": 300,
+  "category": "snacks",
+  "exp": "01-2022"
+ },
+ "10013": {
+  "name": "Oreo",
+  "price": 30,
+  "qtn": 400,
+  "category": "snacks",
+  "exp": "02-2022"
+ },
+ "10014": {
+  "name": "Parle-G",
+  "price": 10,
+  "qtn": 700,
+  "category": "snacks",
+  "exp": "03-2022"
+ },
+ "10015": {
+  "name": "fogg",
+  "price": 70,
+  "qtn": 50,
+  "category": "perfume",
+  "exp": "05-2022"
+ },
+ "10016": {
+  "name": "wildstone",
+  "price": 80,
+  "qtn": 60,
+  "category": "perfume",
+  "exp": "04-2022"
+ },
+ "10017": {
+  "name": "clear",
+  "price": 60,
+  "qtn": 60,
+  "category": "shampoo",
+  "exp": "02-2022"
+ },
+ "10018": {
+  "name": "clinic plus",
+  "price": 40,
+  "qtn": 100,
+  "category": "shampoo",
+  "exp": "02-2022"
+ },
+ "10019": {
+  "name": "chick",
+  "price": 50,
+  "qtn": 90,
+  "category": "shampoo",
+  "exp": "04-2022"
+ },
+ "10020": {
+  "name": "Pantene",
+  "price": 80,
+  "qtn": 100,
+  "category": "shampoo",
+  "exp": "05-2022"
+ },
+ "10021": {
+  "name": "broom stick",
+  "price": 40,
+  "qtn": 100,
+  "category": "home needs",
+  "exp": "NA"
+ },
+ "10022": {
+  "name": "chair",
+  "price": 100,
+  "qtn": 50,
+  "category": "home needs",
+  "exp": "NA"
+ },
+ "10023": {
+  "name": "books",
+  "price": 30,
+  "qtn": 700,
+  "category": "stationary",
+  "exp": "NA"
+ },
+ "10024": {
+  "name": "santoor",
+  "price": 30,
+  "qtn": 100,
+  "category": "personal needs",
+  "exp": "06-2022"
+ },
+ "10025": {
+  "name": "Dettol",
+  "price": 40,
+  "qtn": 200,
+  "category": "personal  needs",
+  "exp": "07-2022"
+ },
+ "10026": {
+  "name": "Harpic",
+  "price": 80,
+  "qtn": 200,
+  "category": "home needs",
+  "exp": "08-2022"
+ },
+ "10027": {
+  "name": "Fiama",
+  "price": 50,
+  "qtn": 300,
+  "category": "personal needs",
+  "exp": "06-2022"
+ },
+ "10028": {
+  "name": "Himalaya face wash",
+  "price": 70,
+  "qtn": 150,
+  "category": "personal needs",
+  "exp": "05-2022"
+ },
+ "10029": {
+  "name": "Himalaya Anti Dandruf",
+  "price": 80,
+  "qtn": 100,
+  "category": "shampoo",
+  "exp": "07-2022"
+ },
+ "10030": {
+  "name": "Everyuth peeler",
+  "price": 60,
+  "qtn": 50,
+  "category": "personal needs",
+  "exp": "05-2022"
+ }
+}
